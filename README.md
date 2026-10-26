@@ -64,13 +64,13 @@ nano-banano/
     ├── banner.jpg     # баннер README
     ├── logos/         # полные изображения: логотипы
     ├── icons/         # полные изображения: иконки
-    └── thumbs/        # превью 480 px для README
+    └── thumbs/        # квадратные превью 480 px для README
 ```
 
 ## Добавление промта
 
 1. Положи результат в `assets/logos/` или `assets/icons/` — имя в kebab-case, например `my-new-icons.png`.
-2. Сгенерируй превью шириной 480 px и сохрани в `assets/thumbs/my-new-icons.png`.
+2. Сгенерируй квадратное превью 480×480 px — изображение вписывается на белом фоне — и сохрани в `assets/thumbs/my-new-icons.png`.
 3. Добавь секцию в [PROMPTS.md](PROMPTS.md):
 
 ````markdown
