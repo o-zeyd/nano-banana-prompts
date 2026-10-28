@@ -1,10 +1,8 @@
 ![nano-banana-prompts](assets/banner.jpg)
 
-Коллекция промтов для **Nano Banana** — генерации чёрно-белых векторных логотипов, иконок и глифов. 17 промтов с примерами результатов и 2 дополнительных варианта. Тексты промтов на английском, интерфейс репозитория — на русском.
+Сборник иконок и промтов, по которым они получены: чёрно-белые векторные логотипы и глифы для **Nano Banana**. Тексты промтов на английском, интерфейс репозитория — на русском.
 
-## Каталог
-
-### Логотипы
+## Лого
 
 <table>
   <tr valign="top">
@@ -12,11 +10,6 @@
     <td align="center" width="33%"><a href="PROMPTS.md#modular-geometry"><img src="assets/thumbs/modular-geometry.png" width="240" alt="Modular geometry"></a><br><b>Modular geometry</b></td>
     <td align="center" width="33%"><a href="PROMPTS.md#dragon-emblems"><img src="assets/thumbs/dragon-emblems.png" width="240" alt="Dragon emblems"></a><br><b>Dragon emblems</b></td>
   </tr>
-</table>
-
-### Иконки
-
-<table>
   <tr valign="top">
     <td align="center" width="33%"><a href="PROMPTS.md#op-art-circles"><img src="assets/thumbs/op-art-circles.png" width="240" alt="Op-art circles"></a><br><b>Op-art circles</b></td>
     <td align="center" width="33%"><a href="PROMPTS.md#angular-chevrons"><img src="assets/thumbs/angular-chevrons.png" width="240" alt="Angular chevrons"></a><br><b>Angular chevrons</b></td>
@@ -44,6 +37,8 @@
   </tr>
 </table>
 
+В каталоге — избранные результаты; полный список промтов с изображениями — в [PROMPTS.md](PROMPTS.md).
+
 ## Как пользоваться
 
 1. Открой [PROMPTS.md](PROMPTS.md) и найди нужную секцию — например, [Flame icons](PROMPTS.md#flame-icons).
@@ -62,23 +57,22 @@ nano-banano/
 ├── LICENSE            # MIT
 └── assets/
     ├── banner.jpg     # баннер README
-    ├── logos/         # полные изображения: логотипы
-    ├── icons/         # полные изображения: иконки
+    ├── logos/         # полные изображения
     └── thumbs/        # квадратные превью 480 px для README
 ```
 
 ## Добавление промта
 
-1. Положи результат в `assets/logos/` или `assets/icons/` — имя в kebab-case, например `my-new-icons.png`.
-2. Сгенерируй квадратное превью 480×480 px — изображение вписывается на белом фоне — и сохрани в `assets/thumbs/my-new-icons.png`.
+1. Положи результат в `assets/logos/` — имя в kebab-case, например `my-new-logo.png`.
+2. Сгенерируй квадратное превью 480×480 px — изображение вписывается на белом фоне — и сохрани в `assets/thumbs/my-new-logo.png`.
 3. Добавь секцию в [PROMPTS.md](PROMPTS.md):
 
 ````markdown
-### My new icons
+### My new logo
 
 Короткое описание в одну строку.
 
-![My new icons](assets/icons/my-new-icons.png)
+![My new logo](assets/logos/my-new-logo.png)
 
 **Промт**
 
@@ -91,4 +85,4 @@ nano-banano/
 
 ## Лицензия
 
-[MIT](LICENSE) © 2026 portal-deza. Используй, изменяй и распространяй свободно.
+[MIT](LICENSE) © 2026 o-zeyd. Используй, изменяй и распространяй свободно.

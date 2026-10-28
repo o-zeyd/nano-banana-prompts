@@ -6,14 +6,9 @@
 
 ## Содержание
 
-**Logos**
-
 - [Kamon crests](#kamon-crests)
 - [Modular geometry](#modular-geometry)
 - [Dragon emblems](#dragon-emblems)
-
-**Icons**
-
 - [Op-art circles](#op-art-circles)
 - [Angular chevrons](#angular-chevrons)
 - [Arrow logos](#arrow-logos)
@@ -28,10 +23,17 @@
 - [Pixel arcade glyphs](#pixel-arcade-glyphs)
 - [Industrial hazard](#industrial-hazard)
 - [Cargo markings](#cargo-markings)
+- [Concept collisions](#concept-collisions)
+- [Negative space](#negative-space)
+- [Implied motion](#implied-motion)
+- [Abstract metaphors](#abstract-metaphors)
+- [Anti-cliche](#anti-cliche)
+- [Three-shape logos](#three-shape-logos)
+- [Abstract concepts](#abstract-concepts)
 
 ---
 
-## Logos
+## Лого
 
 ### Kamon crests
 
@@ -69,15 +71,11 @@ A 2x3 grid layout displaying 6 distinct minimalist geometric logo icons. Pure fl
 A single 2D flat vector icon sheet arranged in a balanced 3-column-by-2-row grid containing exactly six distinct minimalist dragon emblem icons on a solid pure white background (#FFFFFF). All six icons are rendered in solid pure black (#000000) with crisp, razor-sharp edges, zero gradients, and no drop shadows. The design style combines aggressive angular esports mascot geometry with sweeping tribal curves, pointed spikes, jagged fangs, and sharp negative space cutouts for eyes and jawlines. Each icon occupies its own clearly separated space with consistent optical scale and generous margins: (1) an angular, faceted dragon head in side profile with swept-back horns and geometric neck cutouts; (2) a circular emblem featuring a jagged, geometric dragon silhouette framed by negative space; (3) a curved, roaring dragon head in profile with serrated teeth and spiked neck fins; (4) a full-body dragon coiled in an S-curve with an outstretched bat-like wing and a curled spiked tail; (5) a circular,ouroboros-style sweeping tribal dragon with an overarching curved wing and a crescent tail; and (6) a front-facing symmetrical dragon crest with sharp horns and angular cheek spikes. Maintain pure monochrome contrast with no text, watermarks, or borders.
 ```
 
----
-
-## Icons
-
 ### Op-art circles
 
 Оп-арт: 12 круглых и органических форм из тонких параллельных линий.
 
-![Op-art circles](assets/icons/op-art-circles.png)
+![Op-art circles](assets/logos/op-art-circles.png)
 
 **Промт**
 
@@ -95,7 +93,7 @@ A 2x3 grid layout displaying 6 distinct minimalist geometric logo icons. Pure fl
 
 Сетка 4×4 из острых треугольных глифов в духе 70-х, киберпанка и outdoor-техники.
 
-![Angular chevrons](assets/icons/angular-chevrons.jpg)
+![Angular chevrons](assets/logos/angular-chevrons.jpg)
 
 **Промт**
 
@@ -113,7 +111,7 @@ A 2x3 grid layout displaying 6 distinct minimalist abstract geometric logo icons
 
 Стрелочные логотипы в квадратных рамках: динамика и негативное пространство.
 
-![Arrow logos](assets/icons/arrow-logos.png)
+![Arrow logos](assets/logos/arrow-logos.png)
 
 **Промт**
 
@@ -125,7 +123,7 @@ A 2x3 grid layout displaying 6 distinct minimalist geometric arrow logo icons. P
 
 Четырёхлучевые звёзды и блики: от симметричных до наклонённых и фрагментированных.
 
-![Sparkle stars](assets/icons/sparkle-stars.png)
+![Sparkle stars](assets/logos/sparkle-stars.png)
 
 **Промт**
 
@@ -137,7 +135,7 @@ A minimalist vector icon sheet featuring a 2x3 grid of 6 distinct four-pointed s
 
 Пламя: острые языки, симметричные символы и фрагментированные силуэты.
 
-![Flame icons](assets/icons/flame-icons.png)
+![Flame icons](assets/logos/flame-icons.png)
 
 **Промт**
 
@@ -149,7 +147,7 @@ A design sheet featuring 6 distinct minimalist flame-shaped geometric icons, nea
 
 Трайбл-солнца с вращательным вихрем лучей.
 
-![Tribal suns](assets/icons/tribal-suns.png)
+![Tribal suns](assets/logos/tribal-suns.png)
 
 **Промт**
 
@@ -161,7 +159,7 @@ A 2x3 grid layout icon sheet containing exactly 6 distinct tribal sun icons. Eac
 
 Строгая 3- и 4-лучевая симметрия в духе швейцарского модернизма.
 
-![Rotational symmetry](assets/icons/rotational-symmetry.png)
+![Rotational symmetry](assets/logos/rotational-symmetry.png)
 
 **Промт**
 
@@ -173,7 +171,7 @@ A clean 3x2 grid layout displaying exactly 6 distinct minimalist geometric logo 
 
 Кислотная графика: метаболы, амёбы и тающие кляксы с перемычками.
 
-![Liquid blobs](assets/icons/liquid-blobs.png)
+![Liquid blobs](assets/logos/liquid-blobs.png)
 
 **Промт**
 
@@ -185,7 +183,7 @@ A clean 3x2 grid layout displaying 6 distinct acid graphics liquid blob icons, e
 
 Кибер-трайбл сигилы: готические шипы, крылья насекомых, каллиграфия.
 
-![Cyber-tribal sigils](assets/icons/cyber-tribal-sigils.png)
+![Cyber-tribal sigils](assets/logos/cyber-tribal-sigils.png)
 
 **Промт**
 
@@ -197,7 +195,7 @@ A clean 3x2 grid layout displaying 6 distinct cyber-tribal sigil icons, evenly s
 
 Уличные орнаменты: колючая проволока, цепи и шипастые рамки.
 
-![Street-art ornaments](assets/icons/street-ornaments.png)
+![Street-art ornaments](assets/logos/street-ornaments.png)
 
 **Промт**
 
@@ -209,7 +207,7 @@ A clean 3x2 grid layout displaying 6 distinct Y2K street-art ornament icons, eve
 
 1-bit иконки в стиле Macintosh 1984 года.
 
-![Pixel OS icons](assets/icons/pixel-os-icons.png)
+![Pixel OS icons](assets/logos/pixel-os-icons.png)
 
 **Промт**
 
@@ -221,7 +219,7 @@ A clean 3x2 grid layout displaying 6 distinct Y2K street-art ornament icons, eve
 
 8-битные аркадные глифы и ретро-игровые эмблемы.
 
-![Pixel arcade glyphs](assets/icons/pixel-arcade-glyphs.png)
+![Pixel arcade glyphs](assets/logos/pixel-arcade-glyphs.png)
 
 **Промт**
 
@@ -233,7 +231,7 @@ A clean 3x2 grid layout displaying 6 distinct Y2K street-art ornament icons, eve
 
 Промышленные знаки опасности и техно-бейджи.
 
-![Industrial hazard](assets/icons/industrial-hazard.png)
+![Industrial hazard](assets/logos/industrial-hazard.png)
 
 **Промт**
 
@@ -245,10 +243,94 @@ A clean 3x2 grid layout displaying 6 distinct industrial marker and tech hazard 
 
 Трафаретная маркировка грузов и технической одежды.
 
-![Cargo markings](assets/icons/cargo-markings.png)
+![Cargo markings](assets/logos/cargo-markings.png)
 
 **Промт**
 
 ```text
 A clean 3x2 grid layout displaying 6 distinct utilitarian cargo marking and technical apparel labeling icons, evenly spaced with wide margins. Heavily geometric, rugged industrial, shipping, and technical garment marking symbols, featuring abstract cargo handling glyphs, packaging and quality control indicator stamps, tracking and packing markers, and heavy directional symbols. Built from chunky stencils, heavy parallel stripes, angular bracket frames, stylized transport/handling stamp motifs, warning bars, fragmented geometric shapes, and abstract circular/square tracking stamps. Raw brutalist flat 2D vector graphic design inspired by ISO logistics and heavy-duty cargo marking. Solid pure black (#000000) icons isolated on a completely flat, pure white (#FFFFFF) background. High contrast, razor-sharp edges, no gradients, no shadows, no 3D rendering, no text or words, no outer border around the whole image. No 3D objects, no realistic vehicles. Flat 2D graphic design, purely 2-dimensional.
+```
+
+### Concept collisions
+
+Неожиданное столкновение двух идей в одном символе.
+
+![Concept collisions](assets/logos/concept-collisions.png)
+
+**Промт**
+
+```text
+Create a 3x2 concept sheet containing exactly 6 original standalone logo symbols. For each symbol, independently invent an unexpected collision between two different ideas, systems, or meanings, then fuse them into one coherent visual metaphor. Choose the concepts yourself; do not use a predefined list of objects or repeat the same type of concept collision. The result must feel like a newly discovered symbol, not two clip-art objects placed together. Explore different visual strategies across the sheet: transformation, interlocking forms, symbolic cuts, unexpected scale relationships, and carefully balanced asymmetry. Make every mark instantly distinguishable by silhouette and underlying idea, with enough simplicity to work as a real brand icon. Keep the meaning suggestive rather than literal or explanatory. Solid black shapes on a pure white background, flat 2D vector logo design, crisp edges, generous spacing, consistent optical weight. No text, letters, numbers, mockups, borders, gradients, shadows, textures, or 3D.
+```
+
+### Negative space
+
+Негативное пространство со вторым прочтением.
+
+![Negative space](assets/logos/negative-space.png)
+
+**Промт**
+
+```text
+Generate a balanced 3x2 grid of exactly 6 original minimalist logo marks built around clever negative space. Invent a different underlying idea for every mark and let the relationship between the solid silhouette and its empty cutouts reveal a subtle second reading. Do not rely on obvious heart-and-arrow, letter-in-shape, or animal-in-circle templates. Avoid familiar stock-logo formulas. Each symbol should have one strong outer silhouette and one intentional visual surprise that feels inevitable once noticed. Vary the construction logic across the six designs: enclosed voids, shared edges, interrupted contours, nested silhouettes, and forms that become meaningful only when viewed as a whole. Keep every design simple enough to remain legible at small sizes. Solid black and pure white only, flat vector geometry, clean cutouts, sharp edges, isolated on a white background. No text, typography, gradients, shadows, outlines around the sheet, mockups, textures, or 3D.
+```
+
+### Implied motion
+
+Движение и переход без стрелок и линий скорости.
+
+![Implied motion](assets/logos/implied-motion.png)
+
+**Промт**
+
+```text
+Produce a 3x2 grid of exactly 6 original static logo symbols that make an action, transition, or force feel visible without drawing literal motion lines or relying on arrows. Invent a different process for each mark: something dividing, converging, unfolding, adapting, escaping, balancing, exchanging, or changing state—but freely choose the final concepts and do not simply illustrate these example verbs. Suggest motion through tension, shape deformation, directional weight, interrupted continuity, spatial relationships, or a before-and-after state fused into one form. Each icon must feel distinct in both meaning and silhouette; avoid six variations of the same swirl or forward-facing mark. Prioritize memorable, economical forms that could work as a real brand symbol. Solid black vector shapes on pure white, flat 2D design, crisp contours, carefully controlled negative space. No arrows as the main solution, no speed lines, text, letters, gradients, shadows, textures, mockups, borders, or 3D.
+```
+
+### Abstract metaphors
+
+Абстрактные идеи и человеческий опыт через метафору.
+
+![Abstract metaphors](assets/logos/abstract-metaphors.png)
+
+**Промт**
+
+```text
+Create exactly 6 distinct minimalist logo concepts in a clean 3x2 grid. Independently choose six different abstract ideas, qualities, or human experiences and invent a visual metaphor for each one. Communicate through shape, balance, rhythm, proportion, enclosure, interruption, compression, or transformation—not through literal illustrations or recognizable stock symbols. Do not write or display the concepts. Do not use a repeated icon template with superficial variations. Each mark should express its own idea through a different visual logic, while remaining simple, bold, and recognizable at small sizes. Aim for the kind of concise, surprising symbol a skilled identity designer might sketch after exploring many concepts. Use solid black and white only, flat 2D vector marks, crisp edges, generous negative space between icons, pure white background. No text, letters, numbers, gradients, shadows, textures, mockups, or 3D rendering.
+```
+
+### Anti-cliche
+
+Символы для категорий, где очевидные решения отброшены.
+
+![Anti-cliche](assets/logos/anti-cliche.png)
+
+**Промт**
+
+```text
+Create a design exploration sheet containing exactly 6 original black-and-white logo symbols. First, independently invent six different brand categories or purposes. For each one, deliberately reject the first three obvious visual clichés that a designer would normally use for that category. Build the final symbol from a more surprising but still meaningful visual association, structural idea, or distinctive silhouette. The six marks must communicate six different concepts and must not share one dominant motif or construction. Prioritize memorable silhouettes, clear visual logic, and ideas that could inspire a real identity design rather than decorative variation. Arrange the symbols in a balanced 3x2 grid with generous whitespace. Solid black shapes on pure white, flat 2D vector style, crisp edges, scalable logo design, no gradients, no shadows, no 3D, no texture, no color, no letters, no numbers, no words, no mockups, no borders.
+```
+
+### Three-shape logos
+
+Не больше трёх геометрических элементов на знак.
+
+![Three-shape logos](assets/logos/three-shape-logos.png)
+
+**Промт**
+
+```text
+Create exactly 6 original logo concepts in a 3x2 grid. Each logo may use no more than three simple geometric components, yet all six must communicate clearly different ideas. Do not make six variations of the same geometric symbol. Invent a different underlying concept for each mark, then reduce it to the smallest possible combination of circles, blocks, arcs, wedges, or custom simple silhouettes. The challenge is conceptual clarity, not geometric decoration: each shape must contribute to the idea. Use confident proportions, distinctive negative space, and memorable silhouettes that remain recognizable at small sizes. Pure black vector shapes on a clean white background, flat 2D, sharp edges, no gradients, no shadows, no 3D, no texture, no color, no letters, no numbers, no words, no mockups.
+```
+
+### Abstract concepts
+
+Символы для понятий, которые сложно изобразить напрямую.
+
+![Abstract concepts](assets/logos/abstract-concepts.png)
+
+**Промт**
+
+```text
+Invent exactly 6 original symbols for concepts that are notoriously difficult to depict as icons, such as trust calibration, productive uncertainty, delayed understanding, quiet confidence, reversible decisions, shared responsibility, or other subtle ideas. Do not use faces, speech bubbles, hearts, check marks, question marks, or other conventional pictograms as shortcuts. Instead, invent a visual structure that expresses the concept through proportion, containment, tension, continuity, balance, or a carefully chosen absence. Each symbol must suggest a different idea and use a different visual logic. Keep the designs usable as real brand marks: simple enough to recognize, distinctive enough to remember, and free from explanatory detail. A balanced 3x2 grid, pure black vector shapes on white, flat 2D, no gradients, no shadows, no 3D, no color, no letters, no words, no captions, no mockups.
 ```
