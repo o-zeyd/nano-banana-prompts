@@ -1,6 +1,6 @@
 # Промты
 
-Коллекция промтов для **Nano Banana**: чёрно-белые векторные логотипы, иконки и глифы. Каждый промт проверен на практике — результат показан прямо под описанием.
+Коллекция промтов для **Nano Banana**: чёрно-белые векторные иконки и глифы. Каждый промт проверен на практике — результат показан прямо под описанием.
 
 Тексты промтов оставлены на английском: модель стабильнее понимает английские формулировки, а менять в них почти ничего не нужно.
 
@@ -11,7 +11,7 @@
 - [Dragon emblems](#dragon-emblems)
 - [Op-art circles](#op-art-circles)
 - [Angular chevrons](#angular-chevrons)
-- [Arrow logos](#arrow-logos)
+- [Arrow icons](#arrow-icons)
 - [Sparkle stars](#sparkle-stars)
 - [Flame icons](#flame-icons)
 - [Tribal suns](#tribal-suns)
@@ -28,20 +28,20 @@
 - [Implied motion](#implied-motion)
 - [Abstract metaphors](#abstract-metaphors)
 - [Anti-cliche](#anti-cliche)
-- [Three-shape logos](#three-shape-logos)
+- [Three-shape icons](#three-shape-icons)
 - [Abstract concepts](#abstract-concepts)
 - [Signature rules](#signature-rules)
 - [Ambiguous silhouettes](#ambiguous-silhouettes)
 
 ---
 
-## Лого
+## Иконки
 
 ### Kamon crests
 
-6 круглых логотипов в эстетике японских фамильных гербов камон.
+6 круглых иконок в эстетике японских фамильных гербов камон.
 
-![Kamon crests](assets/logos/kamon-crests.png)
+![Kamon crests](assets/icons/kamon-crests.png)
 
 **Промт**
 
@@ -53,7 +53,7 @@ A collection sheet of 6 distinct circular minimalist logo icons, arranged in a n
 
 Модульная геометрия: вложенные фигуры, разрывы и негативное пространство.
 
-![Modular geometry](assets/logos/modular-geometry.png)
+![Modular geometry](assets/icons/modular-geometry.png)
 
 **Промт**
 
@@ -65,7 +65,7 @@ A 2x3 grid layout displaying 6 distinct minimalist geometric logo icons. Pure fl
 
 6 драконьих эмблем: агрессивная esports-геометрия плюс трайбл-кривые.
 
-![Dragon emblems](assets/logos/dragon-emblems.png)
+![Dragon emblems](assets/icons/dragon-emblems.png)
 
 **Промт**
 
@@ -77,7 +77,7 @@ A single 2D flat vector icon sheet arranged in a balanced 3-column-by-2-row grid
 
 Оп-арт: 12 круглых и органических форм из тонких параллельных линий.
 
-![Op-art circles](assets/logos/op-art-circles.png)
+![Op-art circles](assets/icons/op-art-circles.png)
 
 **Промт**
 
@@ -95,7 +95,7 @@ A 2x3 grid layout displaying 6 distinct minimalist geometric logo icons. Pure fl
 
 Сетка 4×4 из острых треугольных глифов в духе 70-х, киберпанка и outdoor-техники.
 
-![Angular chevrons](assets/logos/angular-chevrons.jpg)
+![Angular chevrons](assets/icons/angular-chevrons.jpg)
 
 **Промт**
 
@@ -109,11 +109,11 @@ A grid sheet of abstract, minimalist black-and-white geometric logos and sharp a
 A 2x3 grid layout displaying 6 distinct minimalist abstract geometric logo icons. Pure flat black and white vector graphics on a clean white background, stark high contrast. Each icon explores unique circular and organic geometric concepts using intricate parallel lines, varying line thicknesses, flowing wave patterns, precise halftone stripes, optical illusions, and clever negative space. Inspired by 1970s Swiss modernism, Op Art, and Bauhaus aesthetics. A diverse combination of concentric circles, curved line patterns, flowing organic forms, warped geometric shapes, and mesmerizing optical compositions. Six unique designs featuring rhythmic linework, crisp edges, smooth curves, and balanced geometric weight. Solid flat black lines and shapes on pure white background, 2D flat graphic design, no gradients, no drop shadows, no 3D elements, no text, SVG logo sheet style.
 ```
 
-### Arrow logos
+### Arrow icons
 
-Стрелочные логотипы в квадратных рамках: динамика и негативное пространство.
+Стрелочные иконки в квадратных рамках: динамика и негативное пространство.
 
-![Arrow logos](assets/logos/arrow-logos.png)
+![Arrow icons](assets/icons/arrow-icons.png)
 
 **Промт**
 
@@ -125,7 +125,7 @@ A 2x3 grid layout displaying 6 distinct minimalist geometric arrow logo icons. P
 
 Четырёхлучевые звёзды и блики: от симметричных до наклонённых и фрагментированных.
 
-![Sparkle stars](assets/logos/sparkle-stars.png)
+![Sparkle stars](assets/icons/sparkle-stars.png)
 
 **Промт**
 
@@ -137,7 +137,7 @@ A minimalist vector icon sheet featuring a 2x3 grid of 6 distinct four-pointed s
 
 Пламя: острые языки, симметричные символы и фрагментированные силуэты.
 
-![Flame icons](assets/logos/flame-icons.png)
+![Flame icons](assets/icons/flame-icons.png)
 
 **Промт**
 
@@ -149,7 +149,7 @@ A design sheet featuring 6 distinct minimalist flame-shaped geometric icons, nea
 
 Трайбл-солнца с вращательным вихрем лучей.
 
-![Tribal suns](assets/logos/tribal-suns.png)
+![Tribal suns](assets/icons/tribal-suns.png)
 
 **Промт**
 
@@ -161,7 +161,7 @@ A 2x3 grid layout icon sheet containing exactly 6 distinct tribal sun icons. Eac
 
 Строгая 3- и 4-лучевая симметрия в духе швейцарского модернизма.
 
-![Rotational symmetry](assets/logos/rotational-symmetry.png)
+![Rotational symmetry](assets/icons/rotational-symmetry.png)
 
 **Промт**
 
@@ -173,7 +173,7 @@ A clean 3x2 grid layout displaying exactly 6 distinct minimalist geometric logo 
 
 Кислотная графика: метаболы, амёбы и тающие кляксы с перемычками.
 
-![Liquid blobs](assets/logos/liquid-blobs.png)
+![Liquid blobs](assets/icons/liquid-blobs.png)
 
 **Промт**
 
@@ -185,7 +185,7 @@ A clean 3x2 grid layout displaying 6 distinct acid graphics liquid blob icons, e
 
 Кибер-трайбл сигилы: готические шипы, крылья насекомых, каллиграфия.
 
-![Cyber-tribal sigils](assets/logos/cyber-tribal-sigils.png)
+![Cyber-tribal sigils](assets/icons/cyber-tribal-sigils.png)
 
 **Промт**
 
@@ -197,7 +197,7 @@ A clean 3x2 grid layout displaying 6 distinct cyber-tribal sigil icons, evenly s
 
 Уличные орнаменты: колючая проволока, цепи и шипастые рамки.
 
-![Street-art ornaments](assets/logos/street-ornaments.png)
+![Street-art ornaments](assets/icons/street-ornaments.png)
 
 **Промт**
 
@@ -209,7 +209,7 @@ A clean 3x2 grid layout displaying 6 distinct Y2K street-art ornament icons, eve
 
 1-bit иконки в стиле Macintosh 1984 года.
 
-![Pixel OS icons](assets/logos/pixel-os-icons.png)
+![Pixel OS icons](assets/icons/pixel-os-icons.png)
 
 **Промт**
 
@@ -221,7 +221,7 @@ A clean 3x2 grid layout displaying 6 distinct Y2K street-art ornament icons, eve
 
 8-битные аркадные глифы и ретро-игровые эмблемы.
 
-![Pixel arcade glyphs](assets/logos/pixel-arcade-glyphs.png)
+![Pixel arcade glyphs](assets/icons/pixel-arcade-glyphs.png)
 
 **Промт**
 
@@ -233,7 +233,7 @@ A clean 3x2 grid layout displaying 6 distinct Y2K street-art ornament icons, eve
 
 Промышленные знаки опасности и техно-бейджи.
 
-![Industrial hazard](assets/logos/industrial-hazard.png)
+![Industrial hazard](assets/icons/industrial-hazard.png)
 
 **Промт**
 
@@ -245,7 +245,7 @@ A clean 3x2 grid layout displaying 6 distinct industrial marker and tech hazard 
 
 Трафаретная маркировка грузов и технической одежды.
 
-![Cargo markings](assets/logos/cargo-markings.png)
+![Cargo markings](assets/icons/cargo-markings.png)
 
 **Промт**
 
@@ -257,7 +257,7 @@ A clean 3x2 grid layout displaying 6 distinct utilitarian cargo marking and tech
 
 Неожиданное столкновение двух идей в одном символе.
 
-![Concept collisions](assets/logos/concept-collisions.png)
+![Concept collisions](assets/icons/concept-collisions.png)
 
 **Промт**
 
@@ -269,7 +269,7 @@ Create a 3x2 concept sheet containing exactly 6 original standalone logo symbols
 
 Негативное пространство со вторым прочтением.
 
-![Negative space](assets/logos/negative-space.png)
+![Negative space](assets/icons/negative-space.png)
 
 **Промт**
 
@@ -281,7 +281,7 @@ Generate a balanced 3x2 grid of exactly 6 original minimalist logo marks built a
 
 Движение и переход без стрелок и линий скорости.
 
-![Implied motion](assets/logos/implied-motion.png)
+![Implied motion](assets/icons/implied-motion.png)
 
 **Промт**
 
@@ -293,7 +293,7 @@ Produce a 3x2 grid of exactly 6 original static logo symbols that make an action
 
 Абстрактные идеи и человеческий опыт через метафору.
 
-![Abstract metaphors](assets/logos/abstract-metaphors.png)
+![Abstract metaphors](assets/icons/abstract-metaphors.png)
 
 **Промт**
 
@@ -305,7 +305,7 @@ Create exactly 6 distinct minimalist logo concepts in a clean 3x2 grid. Independ
 
 Символы для категорий, где очевидные решения отброшены.
 
-![Anti-cliche](assets/logos/anti-cliche.png)
+![Anti-cliche](assets/icons/anti-cliche.png)
 
 **Промт**
 
@@ -313,11 +313,11 @@ Create exactly 6 distinct minimalist logo concepts in a clean 3x2 grid. Independ
 Create a design exploration sheet containing exactly 6 original black-and-white logo symbols. First, independently invent six different brand categories or purposes. For each one, deliberately reject the first three obvious visual clichés that a designer would normally use for that category. Build the final symbol from a more surprising but still meaningful visual association, structural idea, or distinctive silhouette. The six marks must communicate six different concepts and must not share one dominant motif or construction. Prioritize memorable silhouettes, clear visual logic, and ideas that could inspire a real identity design rather than decorative variation. Arrange the symbols in a balanced 3x2 grid with generous whitespace. Solid black shapes on pure white, flat 2D vector style, crisp edges, scalable logo design, no gradients, no shadows, no 3D, no texture, no color, no letters, no numbers, no words, no mockups, no borders.
 ```
 
-### Three-shape logos
+### Three-shape icons
 
 Не больше трёх геометрических элементов на знак.
 
-![Three-shape logos](assets/logos/three-shape-logos.png)
+![Three-shape icons](assets/icons/three-shape-icons.png)
 
 **Промт**
 
@@ -329,7 +329,7 @@ Create exactly 6 original logo concepts in a 3x2 grid. Each logo may use no more
 
 Символы для понятий, которые сложно изобразить напрямую.
 
-![Abstract concepts](assets/logos/abstract-concepts.png)
+![Abstract concepts](assets/icons/abstract-concepts.png)
 
 **Промт**
 
@@ -341,7 +341,7 @@ Invent exactly 6 original symbols for concepts that are notoriously difficult to
 
 У каждого знака — собственное конструктивное правило: повторяющийся срез, изгиб, пропорция.
 
-![Signature rules](assets/logos/signature-rules.png)
+![Signature rules](assets/icons/signature-rules.png)
 
 **Промт**
 
@@ -353,9 +353,9 @@ Invent exactly 6 distinctive logo symbols, each based on its own original visual
 
 Силуэты, которые читаются двумя способами: гора и корона, птица и книга.
 
-![Ambiguous silhouettes](assets/logos/ambiguous-silhouettes.png)
+![Ambiguous silhouettes](assets/icons/ambiguous-silhouettes.png)
 
-![Ambiguous silhouettes, второй результат](assets/logos/ambiguous-silhouettes-2.png)
+![Ambiguous silhouettes, второй результат](assets/icons/ambiguous-silhouettes-2.png)
 
 **Промт**
 

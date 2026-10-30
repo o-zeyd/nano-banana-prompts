@@ -1,8 +1,8 @@
 ![nano-banana-prompts](assets/banner.jpg)
 
-Сборник иконок и промтов, по которым они получены: чёрно-белые векторные логотипы и глифы для **Nano Banana**. Тексты промтов на английском, интерфейс репозитория — на русском.
+Сборник иконок и промтов, по которым они получены: чёрно-белые векторные иконки и глифы для **Nano Banana**. Тексты промтов на английском, интерфейс репозитория — на русском.
 
-## Лого
+## Иконки
 
 <table>
   <tr valign="top">
@@ -13,7 +13,7 @@
   <tr valign="top">
     <td align="center" width="33%"><a href="PROMPTS.md#op-art-circles"><img src="assets/thumbs/op-art-circles.png" width="240" alt="Op-art circles"></a><br><b>Op-art circles</b></td>
     <td align="center" width="33%"><a href="PROMPTS.md#angular-chevrons"><img src="assets/thumbs/angular-chevrons.png" width="240" alt="Angular chevrons"></a><br><b>Angular chevrons</b></td>
-    <td align="center" width="33%"><a href="PROMPTS.md#arrow-logos"><img src="assets/thumbs/arrow-logos.png" width="240" alt="Arrow logos"></a><br><b>Arrow logos</b></td>
+    <td align="center" width="33%"><a href="PROMPTS.md#arrow-icons"><img src="assets/thumbs/arrow-icons.png" width="240" alt="Arrow icons"></a><br><b>Arrow icons</b></td>
   </tr>
   <tr valign="top">
     <td align="center" width="33%"><a href="PROMPTS.md#sparkle-stars"><img src="assets/thumbs/sparkle-stars.png" width="240" alt="Sparkle stars"></a><br><b>Sparkle stars</b></td>
@@ -57,22 +57,22 @@ nano-banano/
 ├── LICENSE            # MIT
 └── assets/
     ├── banner.jpg     # баннер README
-    ├── logos/         # полные изображения
+    ├── icons/         # полные изображения
     └── thumbs/        # квадратные превью 480 px для README
 ```
 
 ## Добавление промта
 
-1. Положи результат в `assets/logos/` — имя в kebab-case, например `my-new-logo.png`.
-2. Сгенерируй квадратное превью 480×480 px — изображение вписывается на белом фоне — и сохрани в `assets/thumbs/my-new-logo.png`.
+1. Положи результат в `assets/icons/` — имя в kebab-case, например `my-new-icon.png`.
+2. Сгенерируй квадратное превью 480×480 px — изображение вписывается на белом фоне — и сохрани в `assets/thumbs/my-new-icon.png`.
 3. Добавь секцию в [PROMPTS.md](PROMPTS.md):
 
 ````markdown
-### My new logo
+### My new icon
 
 Короткое описание в одну строку.
 
-![My new logo](assets/logos/my-new-logo.png)
+![My new icon](assets/icons/my-new-icon.png)
 
 **Промт**
 
