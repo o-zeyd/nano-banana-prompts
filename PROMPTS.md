@@ -30,6 +30,8 @@
 - [Anti-cliche](#anti-cliche)
 - [Three-shape logos](#three-shape-logos)
 - [Abstract concepts](#abstract-concepts)
+- [Signature rules](#signature-rules)
+- [Ambiguous silhouettes](#ambiguous-silhouettes)
 
 ---
 
@@ -333,4 +335,30 @@ Create exactly 6 original logo concepts in a 3x2 grid. Each logo may use no more
 
 ```text
 Invent exactly 6 original symbols for concepts that are notoriously difficult to depict as icons, such as trust calibration, productive uncertainty, delayed understanding, quiet confidence, reversible decisions, shared responsibility, or other subtle ideas. Do not use faces, speech bubbles, hearts, check marks, question marks, or other conventional pictograms as shortcuts. Instead, invent a visual structure that expresses the concept through proportion, containment, tension, continuity, balance, or a carefully chosen absence. Each symbol must suggest a different idea and use a different visual logic. Keep the designs usable as real brand marks: simple enough to recognize, distinctive enough to remember, and free from explanatory detail. A balanced 3x2 grid, pure black vector shapes on white, flat 2D, no gradients, no shadows, no 3D, no color, no letters, no words, no captions, no mockups.
+```
+
+### Signature rules
+
+У каждого знака — собственное конструктивное правило: повторяющийся срез, изгиб, пропорция.
+
+![Signature rules](assets/logos/signature-rules.png)
+
+**Промт**
+
+```text
+Invent exactly 6 distinctive logo symbols, each based on its own original visual signature rule. A signature rule might involve a recurring cut, a characteristic bend, a specific way two masses meet, a consistent interruption, a peculiar ratio, or another simple construction principle—but invent a different rule for every symbol. Make the rule visible in the design without turning the sheet into a technical diagram. Each mark should feel ownable and reproducible, as if a brand could build a broader visual identity around that single formal idea. Avoid generic symbols and avoid repeating one construction trick across the six concepts. Present them in a clean 3x2 grid with generous spacing. Pure black flat vector forms on white, strong silhouettes, crisp edges, no gradients, no shadows, no 3D, no textures, no color, no text, no lettering, no mockups, no borders.
+```
+
+### Ambiguous silhouettes
+
+Силуэты, которые читаются двумя способами: гора и корона, птица и книга.
+
+![Ambiguous silhouettes](assets/logos/ambiguous-silhouettes.png)
+
+![Ambiguous silhouettes, второй результат](assets/logos/ambiguous-silhouettes-2.png)
+
+**Промт**
+
+```text
+Design exactly 6 standalone logo symbols whose outer silhouettes invite two or more compatible interpretations. The ambiguity must come from the form itself, not from tiny hidden pictures or elaborate optical tricks. A contour might suggest a place and a process, a natural structure and a manufactured one, or two related ideas depending on how it is read. Invent six different conceptual starting points and six different silhouette strategies. Keep every mark immediately readable as a coherent graphic shape; the secondary interpretation should reward a second look without making the primary one confusing. Do not add text or show explanatory callouts. Arrange the results in a balanced 3x2 grid, using solid black forms and deliberate white cutouts on a pure white background. Flat vector design, crisp edges, no gradients, no shadows, no 3D, no colors, no letters, no labels, no mockups.
 ```
