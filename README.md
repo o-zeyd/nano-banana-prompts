@@ -33,6 +33,11 @@
   <tr valign="top">
     <td align="center" width="33%"><a href="PROMPTS.md#industrial-hazard"><img src="assets/thumbs/industrial-hazard.png" width="240" alt="Industrial hazard"></a><br><b>Industrial hazard</b></td>
     <td align="center" width="33%"><a href="PROMPTS.md#cargo-markings"><img src="assets/thumbs/cargo-markings.png" width="240" alt="Cargo markings"></a><br><b>Cargo markings</b></td>
+    <td align="center" width="33%"><a href="PROMPTS.md#botanical-brutalism"><img src="assets/thumbs/botanical-brutalism.png" width="240" alt="Botanical brutalism"></a><br><b>Botanical brutalism</b></td>
+  </tr>
+  <tr valign="top">
+    <td align="center" width="33%"><a href="PROMPTS.md#celestial-telemetry"><img src="assets/thumbs/celestial-telemetry.png" width="240" alt="Celestial telemetry"></a><br><b>Celestial telemetry</b></td>
+    <td></td>
     <td></td>
   </tr>
 </table>

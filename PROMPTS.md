@@ -32,6 +32,8 @@
 - [Abstract concepts](#abstract-concepts)
 - [Signature rules](#signature-rules)
 - [Ambiguous silhouettes](#ambiguous-silhouettes)
+- [Botanical brutalism](#botanical-brutalism)
+- [Celestial telemetry](#celestial-telemetry)
 
 ---
 
@@ -361,4 +363,28 @@ Invent exactly 6 distinctive logo symbols, each based on its own original visual
 
 ```text
 Design exactly 6 standalone logo symbols whose outer silhouettes invite two or more compatible interpretations. The ambiguity must come from the form itself, not from tiny hidden pictures or elaborate optical tricks. A contour might suggest a place and a process, a natural structure and a manufactured one, or two related ideas depending on how it is read. Invent six different conceptual starting points and six different silhouette strategies. Keep every mark immediately readable as a coherent graphic shape; the secondary interpretation should reward a second look without making the primary one confusing. Do not add text or show explanatory callouts. Arrange the results in a balanced 3x2 grid, using solid black forms and deliberate white cutouts on a pure white background. Flat vector design, crisp edges, no gradients, no shadows, no 3D, no colors, no letters, no labels, no mockups.
+```
+
+### Botanical brutalism
+
+Семенные коробочки, спорангии, шипы растений и структурные жилки листьев в жесткой монохромной графике.
+
+![Botanical brutalism](assets/icons/botanical-brutalism.png)
+
+**Промт**
+
+```text
+A clean 3x2 grid layout displaying 6 distinct botanical brutalist logo icons, evenly spaced with wide margins. Inspired by brutalist graphic design, microscopic plant anatomy, and dark streetwear aesthetics. Each icon explores sharp, structural botanical motifs: segmented seed pods, spiky thistle silhouettes, geometric leaf venation, spore capsules, interlocking root cross-sections, and stylized thorny stems. Bold solid black shapes, razor-sharp points, stark positive-negative cutouts, and disciplined organic symmetry. High contrast flat 2D vector graphic design, solid pure black (#000000) on a pure flat white (#FFFFFF) background. Crisp contours, no gradients, no drop shadows, no 3D elements, no textures, no colors, no text, no lettering, SVG logo sheet style.
+```
+
+### Celestial telemetry
+
+Орбитальные траектории, фазы затмений, астролябии и небесная механика в эстетике научной эмблематики 60-х.
+
+![Celestial telemetry](assets/icons/celestial-telemetry.png)
+
+**Промт**
+
+```text
+A clean 3x2 grid layout displaying 6 distinct retro-futuristic celestial telemetry and orbital glyph logo icons, evenly spaced. Inspired by 1960s space race diagrams, astrolabe instruments, planetary eclipse geometry, and radio astronomy charts. Each icon explores cosmic geometric mechanics: intersecting elliptical orbit trajectories, stylized celestial alignments, concentric focal rings, crescent occultation voids, and precision radial sightline markers. Strict geometric balance, clean monolinear circles fused with heavy solid masses, mid-century modernist science insignia aesthetic. Solid pure black (#000000) on a pure white (#FFFFFF) background, high contrast, razor-sharp vector contours, flat 2D design, no gradients, no shadows, no stars, no stippling, no 3D rendering, no text, no coordinates. Avoid unnecessary or decorative lines. Every line must serve a clear geometric or functional purpose within the celestial symbol. No random strokes, arbitrary extensions, disconnected segments, redundant orbit paths, excessive intersections, or unexplained geometric details. Keep all elements intentional, structurally coherent, and visually legible. Prioritize simplicity, precision, and clean geometric construction over unnecessary complexity.
 ```
