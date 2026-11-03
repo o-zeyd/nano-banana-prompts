@@ -34,6 +34,7 @@
 - [Ambiguous silhouettes](#ambiguous-silhouettes)
 - [Botanical brutalism](#botanical-brutalism)
 - [Celestial telemetry](#celestial-telemetry)
+- [Abstract navigation](#abstract-navigation)
 
 ---
 
@@ -387,4 +388,16 @@ A clean 3x2 grid layout displaying 6 distinct botanical brutalist logo icons, ev
 
 ```text
 A clean 3x2 grid layout displaying 6 distinct retro-futuristic celestial telemetry and orbital glyph logo icons, evenly spaced. Inspired by 1960s space race diagrams, astrolabe instruments, planetary eclipse geometry, and radio astronomy charts. Each icon explores cosmic geometric mechanics: intersecting elliptical orbit trajectories, stylized celestial alignments, concentric focal rings, crescent occultation voids, and precision radial sightline markers. Strict geometric balance, clean monolinear circles fused with heavy solid masses, mid-century modernist science insignia aesthetic. Solid pure black (#000000) on a pure white (#FFFFFF) background, high contrast, razor-sharp vector contours, flat 2D design, no gradients, no shadows, no stars, no stippling, no 3D rendering, no text, no coordinates. Avoid unnecessary or decorative lines. Every line must serve a clear geometric or functional purpose within the celestial symbol. No random strokes, arbitrary extensions, disconnected segments, redundant orbit paths, excessive intersections, or unexplained geometric details. Keep all elements intentional, structurally coherent, and visually legible. Prioritize simplicity, precision, and clean geometric construction over unnecessary complexity.
+```
+
+### Abstract navigation
+
+Абстрактные иконки ориентации и поиска пути без стрелок, карт и компасов.
+
+![Abstract navigation](assets/icons/abstract-navigation.png)
+
+**Промт**
+
+```text
+Design a 3x2 grid containing exactly 6 original abstract icon symbols about orientation and finding a way. Do not use arrows, compasses, maps, roads, location pins, or directional signs. Invent six different visual metaphors for guidance, uncertainty, return, discovery, alignment, and choice using asymmetrical weight, converging spaces, open contours, nested frames, displaced centers, or interrupted paths. Each icon should communicate direction indirectly through structure rather than literal imagery. Use solid black vector shapes on a pure white background, flat 2D design, crisp edges, strong silhouettes, generous spacing, and consistent optical weight. No text, letters, numbers, gradients, shadows, textures, colors, mockups, borders, or 3D rendering.
 ```
